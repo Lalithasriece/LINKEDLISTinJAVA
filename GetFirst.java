@@ -15,3 +15,7 @@ System.out.println(colors);
 System.out.println(colors.getFirst());
     }
 }
+
+/*OUTPUT:
+[yellow, green, white, pink, blue]
+yellow*/
