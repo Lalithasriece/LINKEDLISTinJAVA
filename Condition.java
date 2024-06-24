@@ -24,3 +24,7 @@ else{
 }
     }
 }
+/*OUTPUT:
+[HTML, CSS, JS, React, SQL]
+SQL is listed in tech
+PHP is not listed*/
