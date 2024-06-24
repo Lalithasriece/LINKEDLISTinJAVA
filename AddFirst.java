@@ -15,3 +15,7 @@ colors.addFirst("brown");
 System.out.println(colors);
     }
 }
+
+/*OUTPUT:
+[yellow, green, white, pink, blue]
+[brown, yellow, green, white, pink, blue]*/
