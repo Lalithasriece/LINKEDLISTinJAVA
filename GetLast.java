@@ -13,3 +13,7 @@ System.out.println(colors);
 System.out.println(colors.getLast());
     }
 }
+
+/*OUTPUT:
+[yellow, green, white, pink, blue]
+blue*/
