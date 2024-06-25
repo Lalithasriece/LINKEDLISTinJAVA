@@ -15,3 +15,8 @@ colors.set(2,"grey");
 System.out.println(colors);
     }
 }
+
+/*OUTPUT:
+[yellow, green, white, pink, blue]
+[yellow, green, grey, pink, blue]
+    */
