@@ -14,3 +14,7 @@ System.out.println(colors.size());
 
     }
 }
+
+/*OUTPUT:
+[yellow, green, white, pink, blue]
+5 */
