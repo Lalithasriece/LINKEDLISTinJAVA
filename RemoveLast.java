@@ -15,3 +15,8 @@ colors.removeLast();
 System.out.println(colors);
     }
 }
+
+/*OUTPUT:
+[yellow, green, white, pink, blue]
+[yellow, green, white, pink]
+    */
